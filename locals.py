@@ -1,0 +1,7 @@
+LOGIN_PAGE = "https://engage.colum.edu/otp_signup?r=%%2fweb_app%%3fid%3d24615%26menu_id%%3d66226%%26if%%3d0%26"
+EMAIL = "email"
+PASSWORD = "password"
+COLUMBIA_HOME_PAGE = "https://engage.colum.edu/web_app?id=24615&menu_id=66226&if=0&"
+COLUMBIA_DIRECTORY_PAGE = "https://engage.colum.edu/web_app?id=24615&menu_id=66480&if=0&"
+COLUMBIA_FEED_PAGE = "https://engage.colum.edu/web_app?id=24615&menu_id=66482&if=0&"
+POST_MESSAGE = "This is a bot running a script."
